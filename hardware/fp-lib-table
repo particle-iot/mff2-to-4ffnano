@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name mff2-to-4ffnano)(type KiCad)(uri ${KIPRJMOD}/libs/mff2-to-4ffnano.pretty)(options "")(descr ""))
+)
