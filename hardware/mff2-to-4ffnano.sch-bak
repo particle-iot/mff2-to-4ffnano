@@ -5,7 +5,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "MFF2 to 4FFNano Adapter"
-Date "2020-12-18"
+Date "2020-12-04"
 Rev "v1.0"
 Comp "Brett Walach"
 Comment1 ""
@@ -52,7 +52,7 @@ U 1 1 5FCAEC80
 P 7250 6300
 F 0 "U2" H 6950 6700 50  0000 C CNN
 F 1 "ESIMSON8" H 7100 6600 50  0000 C CNN
-F 2 "mff2-to-4ffnano:MFF2-castellated" H 7250 6300 50  0001 C CNN
+F 2 "mff2-to-4ffnano:MFF2" H 7250 6300 50  0001 C CNN
 F 3 "" H 7250 6300 50  0001 C CNN
 	1    7250 6300
 	1    0    0    -1  
