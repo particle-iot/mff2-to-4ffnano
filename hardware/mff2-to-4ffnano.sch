@@ -124,4 +124,6 @@ Text GLabel 6800 6250 0    50   Input ~ 0
 VPP
 Text GLabel 9300 6350 0    50   Input ~ 0
 VPP
+Text Notes 8550 5550 0    50   ~ 0
+GCT SIM8051 (Active) or GCT SIM8100 (Obsolete)
 $EndSCHEMATC
